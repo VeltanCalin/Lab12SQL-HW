@@ -26,7 +26,7 @@ CREATE TABLE public.users
        2. Sa se afiseze toate postarile unui user
         select message,postdate
         from posts
-        where posts.iduser=1
+        where posts.iduser=1;
 
 
        3. afisare useri
